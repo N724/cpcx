@@ -1,0 +1,6 @@
+name: astrbot_plugin_train
+desc: 智能火车票查询插件
+help: 发送「/火车票 出发地 目的地」查询票务
+version: 1.2.0
+author: nbx
+repo: https://github.com/N724/cpcx
